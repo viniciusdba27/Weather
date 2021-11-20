@@ -1,5 +1,6 @@
 run: npm run start
-rest: npm run test
+
+test: npm run test
 
 This is a MVP:
 
