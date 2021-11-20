@@ -10,3 +10,4 @@ does not include:
 - fancy styling
 - http error handling
 - integration tests
+- not presenting dogs and cats (if it's really necessary then I can do it later), showing weather icons instead
