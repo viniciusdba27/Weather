@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "flexDirection": "column",
+      "padding": 15,
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "flexDirection": "column",
+        "marginBottom": 15,
+        "marginTop": 15,
+      }
+    }
+  >
+    <label>
+      City Name:
+      <input
+        name="name"
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+    </label>
+    <button
+      onClick={[Function]}
+    >
+      search
+    </button>
+  </div>
+  <div
+    style={
+      Object {
+        "flexDirection": "column",
+      }
+    }
+  />
+</div>
+`;

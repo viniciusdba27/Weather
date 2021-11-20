@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "row",
+      "marginBottom": 15,
+      "marginTop": 15,
+    }
+  }
+>
+  <p>
+    Thu Nov 18 2021
+  </p>
+  <div
+    style={
+      Object {
+        "backgroundImage": "url(https://www.metaweather.com/static/img/weather/png/64/hc.png)",
+        "height": 64,
+        "width": 64,
+      }
+    }
+  />
+</div>
+`;
