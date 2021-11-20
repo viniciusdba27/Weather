@@ -111,7 +111,7 @@ const CityListing = ({ items = [], onClick = () => undefined }) => {
       style={{ ...Helpers.fillRow, ...Metrics.verticalMargin }}
       key={`city-${index}`}
     >
-      <a onClick={() => onClick(item)} style={Styles.city}>
+      <a href="/#" onClick={() => onClick(item)} style={Styles.city}>
         {item?.title}
       </a>
     </div>
